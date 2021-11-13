@@ -1,0 +1,4 @@
+﻿  main.cpp
+D:\хакатон\tensorFlow\include\tensorflow\c\c_api.h(953,68): warning C4190: для "TF_NewWhile" задана С-связывание, но возвращаемый тип UDT "TF_WhileParams" несовместим с языком Си
+D:\хакатон\tensorFlow\include\tensorflow\c\c_api.h(909): message : см. объявление "TF_WhileParams"
+  fierTestTensorFlow.vcxproj -> D:\хакатон\fierTestTensorFlow-core\Debug\fierTestTensorFlow.exe
