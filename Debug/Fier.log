@@ -1,0 +1,8 @@
+﻿  DecoderAnimation.cpp
+D:\хакатон\Fier-core\Fier\DecoderAnimation.cpp(61,24): warning C4018: <: несоответствие типов со знаком и без знака
+D:\хакатон\Fier-core\Fier\DecoderAnimation.cpp(69,13): warning C4101: hbm: неиспользованная локальная переменная
+  main.cpp
+D:\хакатон\Fier-core\Fier\main.cpp(100,9): warning C4018: >: несоответствие типов со знаком и без знака
+  Создание кода...
+D:\хакатон\Fier-core\Fier\main.cpp(120): warning C4715: WndProc: значение возвращается не при всех путях выполнения
+  Fier.vcxproj -> D:\хакатон\Fier-core\Debug\Fier.exe
